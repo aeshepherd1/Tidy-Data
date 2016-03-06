@@ -1,4 +1,4 @@
-Original Experiment:
+Original Experiment Description:
 The following describes the variables in the original dataset resulting from the experiment performed:
 
 Feature Selection 
