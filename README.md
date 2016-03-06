@@ -1,3 +1,4 @@
+
 ==================================================================
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
@@ -49,6 +50,8 @@ The script which produces this tidy dataset uses the original files created from
 The script produces intermediate datasets including relevant data from the original experiment dataset files.
 The final intermediate dataset contains the mean and standard deviation measured by activity by participant.
 The final tidy dataset produced contains the average of each variable in the intermediate dataset for each activity and participant.  
+
+
 
 
 
