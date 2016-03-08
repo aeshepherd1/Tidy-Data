@@ -1,6 +1,6 @@
-
-Current functionality to produce tidy dataset:
-
+-----------------------------------------------------
+Functionality to produce tidy dataset:
+-----------------------------------------------------
 The script which produces this tidy dataset uses the original files created from the above-described experiment.
 The script produces intermediate datasets including relevant data from the original experiment dataset files.
 The final intermediate dataset contains the mean and standard deviation measured by activity by participant.
@@ -52,12 +52,6 @@ Notes:
 - Features are normalized and bounded within [-1,1].
 - Each feature vector is a row on the text file.
 -----------------------------------------------------
-Current functionality to produce tidy dataset:
-
-The script which produces this tidy dataset uses the original files created from the above-described experiment.
-The script produces intermediate datasets including relevant data from the original experiment dataset files.
-The final intermediate dataset contains the mean and standard deviation measured by activity by participant.
-The final tidy dataset produced contains the average of each variable in the intermediate dataset for each activity and participant.  
 
 
 
